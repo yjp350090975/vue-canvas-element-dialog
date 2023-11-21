@@ -9,6 +9,8 @@ npm i vue-canvas-element-dialog
 ```
 import vueCanvasElementDialog from 'vue-canvas-element-dialog';
 
+import 'vue-canvas-element-dialog/lib/vue-canvas-element-dialog.css'
+
 Vue.use(vueCanvasElementDialog);
 ```
 

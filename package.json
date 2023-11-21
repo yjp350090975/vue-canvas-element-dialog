@@ -1,6 +1,6 @@
 {
   "name": "vue-canvas-element-dialog",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "private": false,
   "license": "MIT",
   "description": "这个是一个基于element-ui做的一个弹窗的图片编辑组件",
